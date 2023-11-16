@@ -50,10 +50,6 @@ header,
   border: none !important;
 }
 
-.notion-collection-card-property {
-  visibility: hidden;
-}
-
 /* PAGE LOAD */
 
 .notion-page {
@@ -211,7 +207,7 @@ figcaption {
 .notion-gallery-grid-size-large
   .notion-collection-card
   .notion-collection-card-property:nth-of-type(2) {
-  position: absolute !important;
+  position: relative !important;
   top: 4px !important;
   right: 10px !important;
   background-color: var(--bg-color) !important;
