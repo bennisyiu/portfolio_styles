@@ -1,6 +1,6 @@
 :root {
   --bg-color: #fafaf8 !important;
-  --fg-color: #1F8BA3 !important;
+  --fg-color: #333333 !important;
   --heading-color: #252525 !important;
   --paragraph-color: #333333 !important;
   --link-color: #4b4b4b !important;
@@ -50,7 +50,7 @@ header,
   border: none !important;
 }
 
-.notion-property .notion-property-multi_select {
+.notion-property.notion-property-multi_select {
   visibility: hidden;
 }
 
