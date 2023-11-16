@@ -50,7 +50,7 @@ header,
   border: none !important;
 }
 
-.notion-property-multi_select-item.notion-item-gray {
+.notion-collection-card-property {
   visibility: hidden;
 }
 
